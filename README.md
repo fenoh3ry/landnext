@@ -1,5 +1,3 @@
-**INTRO
-
 **If you want to run this site on local & on Next Js server , then**
 
 1. 'yarn' on folder.
